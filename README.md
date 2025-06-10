@@ -6,7 +6,7 @@ Python ve Pygame kullanarak yapılmış basit bir balon yakalama oyunu.
 
 - Ekrandaki kırmızı balona tıklayın.  
 - Her yakalamada puan artar ve balon daha hızlı hareket eder.  
-- Süre 30 saniye, süre bittiğinde oyun sona erer.  
+- Süre, 500 saniye, süre bittiğinde oyun sona erer (Tekrar Başlatmak zorundasınız).  
 - Yeniden başlatmak için "Yeniden Başla" butonuna tıklayın.
 
 ## Gereksinimler
